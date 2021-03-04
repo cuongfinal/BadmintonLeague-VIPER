@@ -1,0 +1,38 @@
+PODS:
+  - Cartography (4.0.0)
+  - ObjectMapper (4.2.0)
+  - Realm (10.7.0):
+    - Realm/Headers (= 10.7.0)
+  - Realm/Headers (10.7.0)
+  - RealmSwift (10.7.0):
+    - Realm (= 10.7.0)
+  - RxSwift (5.1.1)
+  - SwiftDate (6.2.0)
+
+DEPENDENCIES:
+  - Cartography
+  - ObjectMapper
+  - RealmSwift
+  - RxSwift
+  - SwiftDate
+
+SPEC REPOS:
+  trunk:
+    - Cartography
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - RxSwift
+    - SwiftDate
+
+SPEC CHECKSUMS:
+  Cartography: c5626d29056b20f1e95c017326ee4df57cc39ad8
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Realm: a03c41a3afbda6c197ba4dfba5428b8b54cc2df4
+  RealmSwift: 5e7abc842276d7fabd386e67afbf3efde54eb1c6
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftDate: d117c3eb6beed72e47d3f4d1e3bc63fa1e66d7c3
+
+PODFILE CHECKSUM: d65df5f3c45161a068c78308bfab910b7261acfa
+
+COCOAPODS: 1.10.0
